@@ -5,7 +5,7 @@
 - 📫 How to reach me ...serefakboga56@gmail.com
 
 - ### My Skills
-![My Skills](https://skillicons.dev/icons?i=c#,Boostrap,php,laravel,linux,react,mysql,postgresql,docker)
+![My Skills](https://skillicons.dev/icons?i=cs,bootstrap,css,dotnet,git,java,php,laravel,linux,react,mysql,postgresql,docker)
 
 <!---
 serefakbogfa/serefakbogfa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
